@@ -7,6 +7,7 @@
 #ifndef WT_CORE_OBSERVING_PTR_IMPL_H_
 #define WT_CORE_OBSERVING_PTR_IMPL_H_
 
+#include <stdexcept>
 #include "observable.hpp"
 
 namespace Wt { namespace Core {
